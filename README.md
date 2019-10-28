@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Udacity front-end development first project: Portfolio website, which presents images and describtion the projects I worked on.
+First project at Udacity front-end Nanodegree, which is a portfolio website that contain images and describtion about projects.
 
 
 
