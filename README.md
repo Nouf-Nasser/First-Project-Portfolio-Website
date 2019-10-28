@@ -19,6 +19,6 @@ Udacity front-end development first project: Portfolio website, which presents i
  
  
  
-# License
+## License
 
 This portfolio project  is licenced under  © 2019–2020 Udacity, Inc.
