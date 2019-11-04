@@ -12,6 +12,9 @@ First project at Udacity front-end Nanodegree, which is a portfolio website that
 * index.html
 * nstylesheet.css in css folder
 
+## How to run?
+ Open index.html
+
 
 
 ## Resources
