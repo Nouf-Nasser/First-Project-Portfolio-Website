@@ -3,7 +3,7 @@
 
 ## Introduction
 
-First project at Udacity front-end Nanodegree, which is a portfolio website that contain images and describtion about projects.
+First project at Udacity front-end Nanodegree, which is a virtual portfolio website that contain images and describtion about projects.
 
 
 
@@ -19,6 +19,7 @@ First project at Udacity front-end Nanodegree, which is a portfolio website that
 
 ## Resources
  * <https://udacity.com>
+
  
  
  
